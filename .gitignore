@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+workspace/*.md
+!workspace/README.md
+.vercel/
+npm-debug.log*
